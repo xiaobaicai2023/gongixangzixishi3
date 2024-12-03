@@ -8,20 +8,32 @@
 管理后台 vue+elementUi
 
 # 界面展示
+![01](https://github.com/user-attachments/assets/905b9a10-538b-42c8-8c32-fa8b6c67b22c
 
-![extending-a-theme](/01.png)
-![extending-a-theme](/02.png)
-![extending-a-theme](/06.png)
-![extending-a-theme](/07.png)
-![extending-a-theme](/08.png)
-![extending-a-theme](/09.png)
-![extending-a-theme](/10.png)
-![extending-a-theme](/11.png)
-![extending-a-theme](/12.png)
-![extending-a-theme](/13.png)
-![extending-a-theme](/14.png)
-![extending-a-theme](/15.png)
-![extending-a-theme](/16.png)
-![extending-a-theme](/xiaomage.jpg)
+![02](https://github.com/user-attachments/assets/44bb9d58-2dee-4f0d-bd51-b1b8353919dc)
+![06](https://github.com/user-attachments/assets/cf4e446a-552b-4297-9aef-1470ca794804)
+![07](https://github.com/user-attachments/assets/c0bea86e-50d7-4b5e-9444-244bd9d4dd60)
+![08](https://github.com/user-attachments/assets/b75e0fdc-35a8-46ec-8d37-e144df11b749)
+![09](https://github.com/user-attachments/assets/07a03db0-ac6b-4d1f-af54-24c1ec7af3fb)
+![10](https://github.com/user-attachments/assets/465d5f77-38ba-4d0f-922c-90f1b6fbcea6)
+![11](https://github.com/user-attachments/assets/9ba19e86-377b-47fa-bdaf-28af5b01537e)
+![12](https://github.com/user-attachments/assets/43309166-9a88-4aff-8d6c-6b0c25066a78)
+![13](https://github.com/user-attachments/assets/269a59c9-9510-4755-a9c3-c3ae97ac62db)
+![14](https://github.com/user-attachments/assets/00d7fa03-ca78-40e0-8099-bbc98b171ea6)
+![15](https://github.com/user-attachments/assets/025fe021-f3c5-4415-a5d1-09aef4680690)
+![16](https://github.com/user-attachments/assets/aebd7f3c-76db-4303-bb51-46a0dc429286)
+![xiaomage](https://github.com/user-attachments/assets/d4ac5649-b45e-4cbc-8657-62b179d035ce)
+
+
+
+
+
+
+
+
+
+
+
+
 
  
