@@ -8,7 +8,7 @@
 管理后台 vue+elementUi
 
 # 界面展示
-![01](https://github.com/user-attachments/assets/905b9a10-538b-42c8-8c32-fa8b6c67b22c
+![01](https://github.com/user-attachments/assets/79862930-f810-42fa-9f18-446485ea8ea3)
 
 ![02](https://github.com/user-attachments/assets/44bb9d58-2dee-4f0d-bd51-b1b8353919dc)
 ![06](https://github.com/user-attachments/assets/cf4e446a-552b-4297-9aef-1470ca794804)
