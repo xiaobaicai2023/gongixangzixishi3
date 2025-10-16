@@ -1,7 +1,7 @@
 # gongixangzixishi
 共享自习室_共享自习室小程序_共享房间_共享学习室.
 
-# 技术架构 
+# 技术架构 .
 
 后台服务 springboot+mybatisplus+mysql
 用户端 uniapp（vue语法）
