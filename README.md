@@ -7,7 +7,7 @@
 用户端 uniapp（vue语法）
 管理后台 vue+elementUi
 
-# 界面展示
+# 界面展示.
 ![01](https://github.com/user-attachments/assets/79862930-f810-42fa-9f18-446485ea8ea3)
 
 ![02](https://github.com/user-attachments/assets/44bb9d58-2dee-4f0d-bd51-b1b8353919dc)
